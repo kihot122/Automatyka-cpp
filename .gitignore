@@ -1,0 +1,12 @@
+*
+!*/
+
+!*.gitignore
+!*.cpp
+!*.hpp
+!*.c
+!*.h
+!*.sln
+!*.vcxproj
+!*.filters
+!*.txt
